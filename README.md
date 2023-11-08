@@ -4,4 +4,4 @@ belajar html, css, bootstsrap
 
 lihat hasil belajar disini
 
-https://marthenyogi.github.io/sacode-laravel-day02/
+https://marthenyogi.github.io/sacode-laravel-day02/git
